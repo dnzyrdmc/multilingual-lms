@@ -1,0 +1,7 @@
+{
+  "day": "15 / 20",
+  "title": "Çok Dilli Mini LMS",
+  "description": "Ders içeriklerini iki dilde göster; kullanıcı ilerlemesini idempotent biçimde kaydet.",
+  "mode": "Türkçe/İngilizce · üç ders",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
